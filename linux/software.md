@@ -9,3 +9,4 @@
 [A user-friendly, lightweight TUI for disk imaging](https://github.com/ifd3f/caligula)
 [A command-line tool to generate, analyze, convert and manipulate colors](https://github.com/sharkdp/pastel)
 [TLP is a feature-rich command line utility for Linux, saving laptop battery power without the need to delve deeper into technical details.](https://wiki.archlinux.org/title/TLP)
+[A Wayland kiosk](https://github.com/cage-kiosk/cage)
